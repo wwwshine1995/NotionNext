@@ -17,14 +17,14 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: 'share',
-  HEO_HERO_TITLE_2: 'help',
+  HEO_HERO_TITLE_1: 'Gone with the wind',
+  HEO_HERO_TITLE_2: 'The Legend of 1900',
   HEO_HERO_TITLE_3: 'andrewen.art',
   HEO_HERO_TITLE_4: 'spirit',
   HEO_HERO_TITLE_5: 'science and nature',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_LINK: 'https://andrewen.art',
   // 英雄区遮罩文字
-  HEO_HERO_COVER_TITLE: 'hang out',
+  HEO_HERO_COVER_TITLE: 'Roman Holiday',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
