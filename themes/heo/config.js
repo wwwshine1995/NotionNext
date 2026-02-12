@@ -27,7 +27,7 @@ const CONFIG = {
   HEO_HERO_COVER_TITLE: 'Roman Holiday',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '朝花夕拾', url: '/tag/朝花夕拾' },
+  HEO_HERO_CATEGORY_1: { title: '1984', url: '/tag/1984' },
   HEO_HERO_CATEGORY_2: { title: '黄金时代', url: '/tag/黄金时代' },
   HEO_HERO_CATEGORY_3: { title: '编程随想', url: '/tag/编程随想' },
 
